@@ -1,6 +1,9 @@
 # Welcome! 👋  
 ### Thanks for visiting my profile—learn more about me below!  
 
+I am a multilingual and multicultural UX/UI designer, developer, and business analyst with a passion for solving complex challenges. With a strong foundation in data analysis, user experience design, and process optimization, I aim to develop culturally aware and data-driven solutions that improve engagement and accessibility for diverse communities.
+
+
 ## 📚 Education  
 ### 🎓 University of Denver, Daniels College of Business  
 Bachelor of Science in Business Administration - Business Information & Analytics (Expected June 2026)  
