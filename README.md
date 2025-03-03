@@ -45,5 +45,7 @@ Associate of Applied Science - Web Development (May 2022)
 
 ## 📫 Let's Connect!  
 💼 [LinkedIn](https://www.linkedin.com/in/kaela-guerra/)  
+📧 Email: **[kaelaguerra@yahoo.com]**  
+📞 Phone: **[720-432-9325]**  
 
 ---
