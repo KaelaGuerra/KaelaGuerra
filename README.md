@@ -31,15 +31,15 @@ Associate of Applied Science - Web Development (May 2022)
 🔗 [View my certifications](https://www.credly.com/earner/earned/badge/61a1e7d9-f2bd-4836-a8c4-f9a312d92e6e)  
 
 ### 💡 CliftonStrengths  
-1. **Learner**  
-2. **Adaptability**  
-3. **Analytical**  
-4. **Includer**  
-5. **Positivity**  
+1. Learner
+2. Adaptability
+3. Analytical  
+4. Includer
+5. Positivity
 
 ### 🌎 Language Skills  
-- **Conversational Spanish**  
-- **Beginner Conversational Italian**  
+- Conversational Spanish
+- Beginner Conversational Italian
 
 ---
 
