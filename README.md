@@ -63,7 +63,7 @@ I am a multilingual and multicultural UX/UI designer, developer, and business an
 ## 🛠 Skills  
 
 ### 🔹 Technical Skills  
-- **Full-Stack Web Development:** HTML, CSS, WordPress, JavaScript, Python, C++  
+- **Full-Stack Web Development:** HTML, CSS, WordPress, JavaScript, Python, C++, R, Shiny, Canva  
 - **Databases & Tools:** MySQL, SQLite3, JavaFX, Visio, Tableau, JMP  
 - **Software & Frameworks:** Atlassian Suite (Trello, Confluence, Jira), Microsoft Office  
 
