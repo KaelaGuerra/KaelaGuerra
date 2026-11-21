@@ -78,6 +78,6 @@ I am a multilingual and multicultural UX/UI designer, developer, and business an
 ---
 
 ## 📫 Let's Connect!  
-💼 [LinkedIn](https://www.linkedin.com/in/kaela-guerra/)  
-📧 Email: **kaelaguerra@yahoo.com**  
+- [LinkedIn](https://www.linkedin.com/in/kaela-guerra/)  
+- Email: **kaelaguerra@yahoo.com**  
 ---
