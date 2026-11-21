@@ -6,7 +6,7 @@ I am a multilingual and multicultural UX/UI designer, developer, and business an
 
 ## 📚 Education  
 - 🎓 **University of Denver, Daniels College of Business**  
-  - Bachelor of Science in Business Administration - Business Information & Analytics (Expected June 2026)  
+  - Bachelor of Science in Business Administration - Business Information & Analytics (June 2026)  
 
 - 🌍 **Università Cattolica del Sacro Cuore, Milan, Italy**
   - ISA Study Abroad Program (Fall 2024)  
@@ -22,22 +22,23 @@ I am a multilingual and multicultural UX/UI designer, developer, and business an
   <summary><b>🛰️ Trajectory Data Interpolation & Coordinate Transformation</b></summary>
   <br>
 
-  ### Project Overview
-  Developed a high-precision Python engineering library and utility application designed to process, transform, and interpolate orbital trajectory data for space domain awareness and resident object tracking.
+  Python program, expanded into an interactive web application, that converts an object's position over time between LLA (Latitude, Longitude, Altitude) and ECEF (Earth-Centered, Earth-Fixed) coordinates and linearly interpolates its ECEF velocity at any requested time.
 
-  * **Core Functionality:** Processes structural state vectors, managing precise conversions between Geodetic (LLA) and Geocentric (ECEF) coordinate systems to analyze spatial positions.
-  * **Advanced Interpolation:** Built a custom application leveraging numerical computing packages to perform dynamic velocity vector interpolation based on precise temporal inputs.
-  * **Technical Stack:** Python, NumPy, Pandas, Coordinate Transformation Math
+  * Converts between LLA and ECEF coordinates (WGS84) in both directions, and calculates the ECEF velocity at each data point.
+  * Linear interpolation of the velocity vector at any time within the data, with clear errors for times outside the range.
+  * FastAPI backend, Astro UX Design System interface, charts, and a 3D globe showing the flight path, ground track, and velocity. Layout planned in Figma.
+  * Automated tests with pytest covering the conversions, velocity calculation, and API.
+  * Python, NumPy, pandas, FastAPI, Astro UXDS, Chart.js, Plotly, pytest, Figma
+  * [Watch the demo](https://youtu.be/5VVh95WyOuY)
 </details>
 
 <details>
   <summary><b>🥾 Philmont Scout Ranch: Organizational Insights & NLP Analysis</b></summary>
   <br>
-
-  ### Project Overview
+  
   Conducted an extensive data-driven operational analysis for the Philmont Scout Ranch, transforming raw stakeholder survey responses and organizational records into actionable management insights.
 
-  * **Data Pipeline:** Engineered data cleaning workflows in Python to handle unstructured text, missing variables, and skewed survey responses.
+  * Engineered data cleaning workflows in Python to handle unstructured text, missing variables, and skewed survey responses.
   * **Advanced Analytics & NLP:** Executed a comprehensive analytical suite including statistical skewness/bias tracking, net promoter score (NPS) modeling, and natural language processing (NLP) tasks such as topic modeling, two-word phrase extraction, and sentiment analysis.
   * **Impact:** Isolated systemic organizational "pain points" and "pride points" to guide strategic structural improvements.
   * **Technical Stack:** Python, NLP Libraries, Pandas, Statistical Modeling, Text Mining
@@ -46,8 +47,6 @@ I am a multilingual and multicultural UX/UI designer, developer, and business an
 <details>
   <summary><b>🏀 Interactive NBA/WNBA Shot Analytics Research Grant Project Dashboard</b></summary>
   <br>
-
-  ### Project Overview
   Designed and built a comprehensive, full-stack sports analytics application utilizing a decade of professional basketball tracking data (2015–2025). The platform allows users to deeply explore shooting efficiency and spatial performance trends across both leagues.
 
   * **Interactive UI/UX:** Architected a seamless, production-ready user interface using modern web frameworks, custom thematic layouts, and specialized spatial mapping tools.
@@ -81,6 +80,4 @@ I am a multilingual and multicultural UX/UI designer, developer, and business an
 ## 📫 Let's Connect!  
 💼 [LinkedIn](https://www.linkedin.com/in/kaela-guerra/)  
 📧 Email: **kaelaguerra@yahoo.com**  
-📞 Phone: **720-432-9325**  
-
 ---
