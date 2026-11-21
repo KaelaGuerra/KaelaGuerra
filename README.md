@@ -1,7 +1,7 @@
 # Welcome! 👋  
 ### Thanks for visiting my profile—learn more about me below!  
 
-I am a multilingual and multicultural UX/UI designer, developer, and business analyst with a passion for solving complex challenges. With a strong foundation in data analysis, user experience design, and process optimization, I aim to develop culturally aware and data-driven solutions that improve engagement and accessibility for diverse communities.
+I am a multilingual and multicultural UX/UI designer, developer, and business analyst with a passion for solving complex challenges. With a strong foundation in data analysis, user experience design, and process optimization, I aim to develop data-driven solutions that improve engagement and accessibility for diverse communities.
 
 
 ## 📚 Education  
@@ -23,7 +23,6 @@ I am a multilingual and multicultural UX/UI designer, developer, and business an
   <br>
 
   Python program, expanded into an interactive web application, that converts an object's position over time between LLA (Latitude, Longitude, Altitude) and ECEF (Earth-Centered, Earth-Fixed) coordinates and linearly interpolates its ECEF velocity at any requested time.
-
   * Converts between LLA and ECEF coordinates (WGS84) in both directions, and calculates the ECEF velocity at each data point.
   * Linear interpolation of the velocity vector at any time within the data, with clear errors for times outside the range.
   * FastAPI backend, Astro UX Design System interface, charts, and a 3D globe showing the flight path, ground track, and velocity. Layout planned in Figma.
@@ -35,28 +34,26 @@ I am a multilingual and multicultural UX/UI designer, developer, and business an
 <details>
   <summary><b>🥾 Philmont Scout Ranch: Organizational Insights & NLP Analysis</b></summary>
   <br>
-  
-  Conducted an extensive data-driven operational analysis for the Philmont Scout Ranch, transforming raw stakeholder survey responses and organizational records into actionable management insights.
 
-  * Engineered data cleaning workflows in Python to handle unstructured text, missing variables, and skewed survey responses.
-  * **Advanced Analytics & NLP:** Executed a comprehensive analytical suite including statistical skewness/bias tracking, net promoter score (NPS) modeling, and natural language processing (NLP) tasks such as topic modeling, two-word phrase extraction, and sentiment analysis.
-  * **Impact:** Isolated systemic organizational "pain points" and "pride points" to guide strategic structural improvements.
-  * **Technical Stack:** Python, NLP Libraries, Pandas, Statistical Modeling, Text Mining
+  Analysis of stakeholder survey responses and organizational records for Philmont Scout Ranch, turned into management insights.
+  - Cleaned unstructured text, missing values, and skewed survey responses with Python workflows.
+  - Analyzed skewness and bias, modeled net promoter score (NPS), and applied NLP techniques: topic modeling, two-word phrase extraction, and sentiment analysis.
+  - Identified recurring "pain points" and "pride points" to guide improvement recommendations.
+  - Python, pandas, statistical modeling, text mining
 </details>
 
 <details>
   <summary><b>🏀 Interactive NBA/WNBA Shot Analytics Research Grant Project Dashboard</b></summary>
   <br>
-  Designed and built a comprehensive, full-stack sports analytics application utilizing a decade of professional basketball tracking data (2015–2025). The platform allows users to deeply explore shooting efficiency and spatial performance trends across both leagues.
 
-  * **Interactive UI/UX:** Architected a seamless, production-ready user interface using modern web frameworks, custom thematic layouts, and specialized spatial mapping tools.
-  * **Advanced Visualizations & Analytics:** 
-    * Developed dynamic individual player shot charts and league-wide shooting probability heat maps.
-    * Engineered a proprietary **Points Above League Average (PALA)** analysis module to isolate top spatial performers across specific court zones.
-    * Built robust head-to-head player comparison modules across multiple seasons.
-  * **Technical Stack:** R, Shiny, ggplot2, bslib, sportyR, Data Warehousing
-</details>
-  
+  Interactive R Shiny application for exploring shooting efficiency and spatial performance in NBA and WNBA tracking data from 2015–2025.
+  - Added a PAA (Points Above Average) Trends tab with a line plot.
+  - Cut the PAA Trends load time from about 15 seconds to about 2 seconds using pre-computation and `bindCache()`.
+  - Improved the interface and UI/UX, fixed duplicate download buttons, and made player colors easier to tell apart.
+  - Debugged and refined the app across `ui.R` and `server.R`.
+  - individual player shot charts, league-wide shooting probability heat maps, Points Above League Average analysis by court zone, and head-to-head player comparison across seasons.
+  - R, Shiny, ggplot2, bslib, sportyR
+</details>  
 ---
 
 ## 🛠 Skills  
